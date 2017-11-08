@@ -4,56 +4,56 @@
       "id": "1",
   		"name": "Asuka L. Soryu",
   		"from": "Neon Genesis Evangelion",
-  		"year": "1995",
+  		"year": 1995,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/als.jpg?raw=true"
   	},
   	{
       "id": "2",
   		"name": "Roger Ferris",
   		"from": "Body of Lies",
-  		"year": "2008",
+  		"year": 2008,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/bol.jpg?raw=true"
   	},
   	{
       "id": "3",
   		"name": "Six",
   		"from": "Battlestar Galactica",
-  		"year": "2004",
+  		"year": 2004,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/bsg.jpg?raw=true"
   	},
   	{
       "id": "4",
   		"name": "Drake",
   		"from": "Uncharted",
-  		"year": "2007",
+  		"year": 2007,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/df.png?raw=true"
   	},
   	{
       "id": "5",
   		"name": "Andrew E. Wiggin",
   		"from": "Ender's Game",
-  		"year": "2013",
+  		"year": 2013,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/Enders.jpg?raw=true"
   	},
   	{
       "id": "6",
   		"name": "Galen Marek",
   		"from": "The Force Unleashed",
-  		"year": "2008",
+  		"year": 2008,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/fu.jpg?raw=true"
   	},
   	{
       "id": "7",
   		"name": "Miranda Lawson",
   		"from": "Mass Effect",
-  		"year": "2010",
+  		"year": 2010,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/ml.png?raw=true"
   	},
   	{
       "id": "8",
   		"name": "Selene",
   		"from": "Underworld",
-  		"year": "2003",
+  		"year": 2003,
   		"pic": "https://github.com/Edxael/Images/blob/master/02-SM-Games/uw5.jpg?raw=true"
   	}
   ]

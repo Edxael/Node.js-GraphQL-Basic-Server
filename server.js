@@ -10,7 +10,7 @@ app.use('/graphql', expressGraphQL({
 
 
 
-app.listen(3000, (err)=>{
+app.listen(4000, (err)=>{
   if(err){ throw err }
   console.log(" \n Server Up and Running....")
 })
