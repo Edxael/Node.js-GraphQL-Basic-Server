@@ -1,8 +1,16 @@
 const graphql = require('graphql')
-const { GraphQLObjectType , GraphQLString, GraphQLInt, GraphQLSchema } = graphql
+const { GraphQLObjectType , GraphQLString, GraphQLInt, GraphQLSchema, GraphQLListss } = graphql
 const axios = require('axios')
 
-
+// const GameType = new GraphQLObjectType({
+//   name: 'Game',
+//   fields: {
+//     id: { type: GraphQLString },
+//     name: { type: GraphQLString },
+//     year: { type: GraphQLInt },
+//     genres: { type:  }
+//   }
+// })
 
 const CharacterType = new GraphQLObjectType({
   name: 'Character',
@@ -11,13 +19,15 @@ const CharacterType = new GraphQLObjectType({
     name: { type: GraphQLString } ,
     race: { type: GraphQLString },
     employer: { type: GraphQLString },
-    abilities: { type: GraphQLString },
+    abilitiy: { type: GraphQLString },
     gender: { type: GraphQLString },
     age: { type: GraphQLInt },
     pic: { type: GraphQLString },
     gameId: { type: GraphQLString }
   }
 })
+
+
 
 const RootQuery = new GraphQLObjectType({
   name: 'RootQueryType',
